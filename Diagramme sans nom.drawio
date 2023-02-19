@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T00:45:30.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="_Ld-Y59o_GSqDGMGOF_U" type="github"><diagram name="Page-1" id="Up0Pgy1UbS9EIalXvKeH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-19T00:57:40.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wWJWEdvisU8L4enPDOaI" version="20.8.20" type="github">
+  <diagram name="Page-1" id="Up0Pgy1UbS9EIalXvKeH">
+    <mxGraphModel dx="954" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-1" value="vue 2d type stardew valley" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="334" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-2" value="déplacement classique zqsd&lt;br&gt;1 animation par direction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-5" value="&lt;b&gt;STEPS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-6" value="&lt;b&gt;OBJECTIFS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-7" value="&lt;font color=&quot;#ff1921&quot;&gt;- créer 1 personnage avec 4 images pour chaque direction&lt;br&gt;- coder le déplacement&lt;br&gt;- ajouter un background d&#39;environnement basique&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-9" value="&lt;font color=&quot;#000000&quot;&gt;développer l&#39;environnement&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1921;" vertex="1" parent="1">
+          <mxGeometry x="55" y="210" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-10" value="&lt;font color=&quot;#ff1921&quot;&gt;créer différents éléments d&#39;environnement ( graphique + intéractif)&lt;br&gt;- que le joueur puisse &quot; heurter&quot; l&#39;environnement&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-11" value="&lt;font color=&quot;#000000&quot;&gt;ajouter des mobs&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1921;" vertex="1" parent="1">
+          <mxGeometry x="65" y="310" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-12" value="&lt;font color=&quot;#ff1921&quot;&gt;- mob qui spawn aléatoirement, puis qui se dirige vers le joueur à une vitesse constante&lt;br&gt;- inflige des dégats dès qu&#39;il touche le joueur&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-13" value="&lt;font color=&quot;#000000&quot;&gt;système hud&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF1921;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVxgCZvAdISGXc7lnWFf-14" value="&lt;font color=&quot;#ff1921&quot;&gt;créer la vie du joueur&lt;br&gt;- l&#39;afficher&lt;br&gt;- système d&#39;attaque&amp;nbsp;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="335" width="190" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
